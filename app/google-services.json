@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "940449191508",
+    "firebase_url": "https://jpproject-da8ee.firebaseio.com",
+    "project_id": "jpproject-da8ee",
+    "storage_bucket": "jpproject-da8ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940449191508:android:19d865f88c6afe346bbfc1",
+        "android_client_info": {
+          "package_name": "com.example.jpapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940449191508-qfiv60f18ap4s1ifq50nsscj0cfuk4rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-XcXVuvhkaSkGqtJ8OKUSwNFHi30FmDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940449191508-qfiv60f18ap4s1ifq50nsscj0cfuk4rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
